@@ -1,5 +1,5 @@
 {
     "version": "1.0.1.1",
-    "url": "https://github.com/p2p-shield/bin/releases",
+    "url": "https://github.com/p2p-shield/bin/releases/download",
     "files": [ "shield.exe", "P2PShield.exe", "autorun.exe" ]
 }
